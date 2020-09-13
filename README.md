@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Hakan 👋
+
+### 👯 I’m looking forward to collaborate with you...
 
 <!--
 **hakansaglam29/hakansaglam29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
