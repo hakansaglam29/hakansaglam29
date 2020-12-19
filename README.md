@@ -12,10 +12,15 @@
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything that you want to learn
+✨ 👯 I’m looking to collaborate on open source projects
+
+✨ 💬 Ask me about anything that you want to learn
+
+✨ Languages: Javascript, Python
+
+✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
+
+✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
 
 
 
