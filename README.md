@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](#)
 
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./content_heart-react.gif" alt="react-native" width="20%" height="20%" align="right">
 
 ✨ 👯 I’m looking to collaborate on open source projects
 
